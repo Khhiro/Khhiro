@@ -1,6 +1,13 @@
+<h1>Что такое  Symbol (ES2015) в  BigInt (ES2020) на JS</h1>
+
+![](https://i.pinimg.com/564x/f8/69/10/f869109f41754f72d38bcb85f0f47a17.jpg)
+
+
+
 ## Symbol (ES2015):
 
-![image](https://github.com/Khhiro/Khhiro/assets/171818366/d31a07ba-8db9-4b1d-aa5d-1db77c1ff833)
+
+
 
 
 - ``Symbol`` - это новый примитивный тип данных в JavaScript, введенный в ECMAScript 2015 (ES6).<br><br>
@@ -21,7 +28,9 @@ obj[mySymbol] = 'hello';
 console.log(obj[mySymbol]); // Выведет: 'hello'
 ```
 
- ![hodo](https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif)
+
+![](https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif)
+
 
 
 
@@ -43,6 +52,4 @@ const bigNumber = BigInt(Number.MAX_SAFE_INTEGER) + BigInt(1);
 console.log(bigNumber); // Выведет: 9007199254740992n
 
 ```
-
-
- ![lofo](https://i.pinimg.com/originals/ab/6e/dc/ab6edc53577c4fdc39a9ba4151ab9d41.gif)
+![](https://i.pinimg.com/564x/93/fc/14/93fc14a00dc693a35204eae978f21a9d.jpg)
