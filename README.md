@@ -1,5 +1,7 @@
 ## Symbol (ES2015):
 
+![](https://i.pinimg.com/564x/3f/f3/38/3ff338fded7cab6c231606b35ebe18ab.jpg![image](https://github.com/Khhiro/Khhiro/assets/171818366/926fda45-2ca6-4a96-bdee-068df7e1de0d))
+
 - ``Symbol`` - это новый примитивный тип данных в JavaScript, введенный в ECMAScript 2015 (ES6).<br><br>
 - Основная цель ``Symbol`` - создание уникальных идентификаторов, которые не будут конфликтовать с другими значениями в программе.
  <br><br>
@@ -19,6 +21,7 @@ console.log(obj[mySymbol]); // Выведет: 'hello'
 ```
 
  ![hodo](https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif)
+
 
 
  ## BigInt (ES2020):
