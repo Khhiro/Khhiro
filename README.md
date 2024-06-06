@@ -1,6 +1,7 @@
 ## Symbol (ES2015):
 
-![](https://i.pinimg.com/564x/3f/f3/38/3ff338fded7cab6c231606b35ebe18ab.jpg![image](https://github.com/Khhiro/Khhiro/assets/171818366/926fda45-2ca6-4a96-bdee-068df7e1de0d))
+![image](https://github.com/Khhiro/Khhiro/assets/171818366/d31a07ba-8db9-4b1d-aa5d-1db77c1ff833)
+
 
 - ``Symbol`` - это новый примитивный тип данных в JavaScript, введенный в ECMAScript 2015 (ES6).<br><br>
 - Основная цель ``Symbol`` - создание уникальных идентификаторов, которые не будут конфликтовать с другими значениями в программе.
